@@ -1,0 +1,1 @@
+Local para guardar imagens e icones
